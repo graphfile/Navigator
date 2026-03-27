@@ -1,5 +1,2 @@
-# file1.txt
-# main.txt
-
-Hello!
+Test file.
 
